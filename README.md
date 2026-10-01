@@ -6,8 +6,6 @@ This project analyzes employee data to understand **employee attrition patterns,
 
 The project uses **Python for data cleaning, MySQL for data analysis, and Power BI for interactive dashboard development**.
 
-> This project uses descriptive analytics and does not use machine learning.
-
 ## 🎯 Objectives
 
 - Analyze overall employee attrition.
